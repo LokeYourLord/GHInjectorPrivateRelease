@@ -1,8 +1,8 @@
-# GHInjectorPrivateRelease
+# GH DLL Injector - Private Release by LokeYourLord @ UnknownCheats
 
 How to use:
 
-1: Download "GH x.x @LokeYourLord-UC.rar
+1: Download "GH x.x @LokeYourLord-UC.rar"
 
 2: Extract it into a folder somewhere.
 
